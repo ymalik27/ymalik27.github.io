@@ -1,1 +1,0 @@
-copy the blog to .
